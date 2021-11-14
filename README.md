@@ -1,2 +1,2 @@
 # curso-django2
-Aplicação disponível em https://stark-dawn-16920.herokuapp.com/
+Aplicação disponível no link do site https://stark-dawn-16920.herokuapp.com/
